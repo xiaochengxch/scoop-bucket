@@ -1,10 +1,10 @@
 {
-    "version": "1.43",
+    "version": "1.46",
     "description": "Keyboard & Mouse Stats for macOS/Windows.",
     "homepage": "https://github.com/debugtheworldbot/keyStats",
     "license": "MIT",
-    "url": "https://github.com/debugtheworldbot/keyStats/releases/download/v1.43/KeyStats-Windows-1.43.zip",
-    "hash": "4e0f5ed3fe04d12ed270391f74929470f50813b8f680009119d9d18cce8c81e0",
+    "url": "https://github.com/debugtheworldbot/keyStats/releases/download/v1.46/KeyStats-Windows-1.46.zip",
+    "hash": "42b7c35e1066083838452dfb001446564005a7e28a731d037ba42ef2e5a42ad1",
     "shortcuts": [
         [
             "KeyStats.exe",
